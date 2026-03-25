@@ -147,9 +147,9 @@ const Hero = () => {
     <section className="relative h-screen flex items-center justify-center overflow-hidden bg-[#151515] text-white">
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://picsum.photos/seed/kitchen-dark/1920/1080?grayscale" 
+          src="https://lh3.googleusercontent.com/pw/AP1GczOO6yWaoVodpIMTjhOVCxCF2blbZk2RFv2QajQUKR9KgadtwFrvHO0Z0l7dgNCOl3CgDJtpFwF2LPZYZx8HS040yWzvSHAt8xUpFfXyInB5ksS-3zBzPa8xlwmUvD8aJ6CG3cO7z-JBCIk6CAtYfw4=w1920-h763-s-no-gm?authuser=0" 
           alt="Kitchen Background" 
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover opacity-60"
           referrerPolicy="no-referrer"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-transparent to-[#f9f8f6]"></div>
